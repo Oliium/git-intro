@@ -1,2 +1,1 @@
-Hey, i merge them !
-
+Change from feature branch
